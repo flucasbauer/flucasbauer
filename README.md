@@ -1,9 +1,9 @@
-# Lucas Bauer
+# Lucas Bauer 👋🏽
 
 [![Link da imagem](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/lucaassbauer)
 [![Link da imagem](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:f.lucasbauer@gmail.com)
 
-Atualmente, faço parte do Núcleo Geoscience da Unioeste, onde contribuo para pesquisas focadas em dados econômicos. 
+Atualmente, faço parte do [Núcleo Geoscience](https://www.unioeste.br/portal/campus-cascavel/nucleos-cascavel/geoscience/inicio) da Unioeste, onde contribuo para pesquisas focadas em dados econômicos. 
 Minha atuação envolve um projeto sobre a COTA-PARTE do ICMS nos municípios paranaenses, 
 onde utilizo SQL e Python para manipulação de dados e aplico modelos de aprendizado de máquina para 
 identificar padrões que suportem os resultados do estudo.
