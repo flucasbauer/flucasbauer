@@ -18,7 +18,7 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
  preço de venda do frango pelos produtores. 
  [Clique aqui](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para acessar o projeto.
 
- - **Suavização exponencial** aplicada aos dados do Projeto de Extensão da Cesta Básica
+ - **SARIMA** aplicada aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de prever os valores
 da CBA para os 12 meses subsequentes a cada 
