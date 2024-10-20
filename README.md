@@ -16,13 +16,15 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 - **Regressão log-log** aplicada aos dados disponibilizados pelo
  IBGE e ComexStat para analisar a sensibilidade do 
  preço de venda do frango pelos produtores. 
- [Clique aqui](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para acessar o projeto.
+ [Clique aqui](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para acessar o diretório do projeto.
 
  - **SARIMA** aplicada aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de prever os valores
 da CBA para os 12 meses subsequentes a cada 
-publicação mensal. [Clique aqui](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) para acessar ao projeto final de visualização. *O diretório está em processo de documentação para a publicação.*
+publicação mensal. [Clique aqui](https://github.com/flucasbauer/previsao_cba) para acessar o diretório do projeto.
+
+    [Projeto final de visualização em BI](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
 
 - **Webscraping** aplicado para realizar o download de mais 
 de mil PDFs do site do governo, com o objetivo de 
