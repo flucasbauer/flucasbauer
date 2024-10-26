@@ -30,7 +30,7 @@ em que atuo. O processo envolveu a parametrização de
 múltiplos campos e a automação de CAPTCHAs como parte do 
 pipeline de ETL. *Em processo de documentação para a publicação.*
 
-## Hard skills
+## Habilidades
 
 ![Link da imagem](https://camo.githubusercontent.com/050fc4e602f25dd4fc337b873fbc62b7d393673a9f4b1e7529a9a61ea35485a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565)
 ![Link da imagem](https://camo.githubusercontent.com/7c3d9c0c71b81848e4c4ac763d4f2bc059be4feb6c8f381382d7c0cdc378221f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)
