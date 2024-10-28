@@ -17,7 +17,7 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 
  - **SARIMA** aplicado aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
-o objetivo de prever os valores
+o objetivo de gerar previsões para os valores
 da CBA para os 12 meses subsequentes a cada 
 publicação mensal. [Clique aqui](https://github.com/flucasbauer/previsao_cba) para acessar o diretório do projeto.
 
