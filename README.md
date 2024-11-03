@@ -28,7 +28,7 @@ de mil PDFs do site do governo, com o objetivo de
 construir um banco de dados para auxiliar o Núcleo 
 em que atuo. O processo envolveu a parametrização de 
 múltiplos campos e a automação de CAPTCHAs como parte do 
-pipeline de ETL. *Em processo de documentação para a publicação.*
+pipeline de ETL. [Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
 
 ## Habilidades
 
