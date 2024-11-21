@@ -25,7 +25,7 @@ publicação mensal. [Clique aqui](https://github.com/flucasbauer/previsao_cba) 
 
 - **Web scraping** aplicado para realizar o download de mais 
 de mil PDFs de um site público, com o objetivo de 
-construir um banco de dados e indicadores para auxiliar a inteligência de négocio do Núcleo 
+construir um banco de dados e indicadores para auxiliar a inteligência de négocios do Núcleo 
 em que atuo. O processo envolveu a parametrização de 
 múltiplos campos e a automação de CAPTCHAs como parte do 
 pipeline de ETL. [Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
