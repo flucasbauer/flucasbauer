@@ -3,7 +3,7 @@
 [![Link da imagem](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/lucaassbauer)
 [![Link da imagem](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:f.lucasbauer@gmail.com)
 
-Atualmente, faço parte do [Núcleo Geoscience](https://www.unioeste.br/portal/campus-cascavel/nucleos-cascavel/geoscience/inicio) da Unioeste, em projetos de pesquisa de mercado, aplicando técnicas de estatísticas e visualização de dados para gerar insights estratégicos em busca de oportunidades de negócios. Domínio em ferramentas de BI, SQL e habilidades de comunicação me permitem transformar dados em ações concretas, impulsionando resultados de negócios.
+Analista de dados com 3 anos de experiência, utilizando ferramentas como SQL, Power BI, Python e Excel. Visando combinar habilidades técnicas com uma comunicação estruturada em storytelling para transformar dados em insights estratégicos, buscando desenvolver ações que impulsionam os resultados do negócio.
 
 ## Formação acadêmica
 Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Paraná 
@@ -25,10 +25,12 @@ publicação mensal. [Clique aqui](https://github.com/flucasbauer/previsao_cba) 
 
 - **Web scraping** aplicado para realizar o download de mais 
 de mil PDFs de um site público, com o objetivo de 
-construir um banco de dados e indicadores para auxiliar a inteligência de négocios do Núcleo 
+construir um banco de dados que permita mapear leads do setor para auxiliar a inteligência de négocios do Núcleo 
 em que atuo. O processo envolveu a parametrização de 
 múltiplos campos e a automação de CAPTCHAs como parte do 
 pipeline de ETL. [Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
+
+[Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmNmYTAtZDNlMy00MGE2LWJiOTEtZjhmNTg2OTY4NTRjIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
 ## Habilidades
 
