@@ -30,7 +30,7 @@ em que atuo. O processo envolveu a parametrização de
 múltiplos campos e a automação de CAPTCHAs como parte do 
 pipeline de ETL. [Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
 
-[Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmNmYTAtZDNlMy00MGE2LWJiOTEtZjhmNTg2OTY4NTRjIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+    [Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmNmYTAtZDNlMy00MGE2LWJiOTEtZjhmNTg2OTY4NTRjIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
 ## Habilidades
 
