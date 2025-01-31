@@ -10,27 +10,60 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 (Unioeste).
 
 ## Projetos
-- **Regressão log-log** aplicada aos dados disponibilizados pelo
+
+### Projeto de análise de dados e negócios
+### Análise de Negócios e BI
+
+- **Avaliações e meios de pagamentos com dados da Olist**
+
+O objetivo deste projeto não é criar um modelo semântico, e sim realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados.
+
+[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiOTExOWRhMjctZmQ2OS00YmZkLWE2NjctMzA5NDY5ODVlMjQwIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9) para acessar ao BI e as análises.
+
+### Projetos de estatística
+
+- **Regressão log-log**
+
+Aplicação feita nos dados disponibilizados pelo
  IBGE e ComexStat para analisar a sensibilidade do 
  preço de venda do frango pelos produtores. 
+
  [Clique aqui](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para acessar o diretório do projeto.
 
- - **SARIMA** aplicado aos dados do Projeto de Extensão da Cesta Básica
+ - **SARIMA**
+ 
+Técnica estatística aplicada aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de gerar previsões para os valores
 da CBA para os 12 meses subsequentes a cada 
-publicação mensal. [Clique aqui](https://github.com/flucasbauer/previsao_cba) para acessar o diretório do projeto.
+publicação mensal.
 
-    [Projeto final de visualização em BI](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
+[Clique aqui](https://github.com/flucasbauer/previsao_cba) para acessar o diretório do projeto.
 
-- **Web scraping** aplicado para realizar o download de mais 
+[Projeto final de visualização em BI](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
+
+### Projetos de scraper
+
+- **Coleta de dados aplicado no site do IAT do governo do estado do Paraná**
+
+Aplicado para realizar o download de mais 
 de mil PDFs de um site público, com o objetivo de 
 construir um banco de dados que permita mapear leads do setor para auxiliar a inteligência de négocios do Núcleo 
 em que atuo. O processo envolveu a parametrização de 
 múltiplos campos e a automação de CAPTCHAs como parte do 
-pipeline de ETL. [Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
+pipeline de ETL.
 
-    [Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmNmYTAtZDNlMy00MGE2LWJiOTEtZjhmNTg2OTY4NTRjIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+[Clique aqui](https://github.com/flucasbauer/webscraping_pdfs) para acessar o diretório do projeto.
+
+[Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmNmYTAtZDNlMy00MGE2LWJiOTEtZjhmNTg2OTY4NTRjIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+
+- **Coleta de dados aplicado no site da Zapimóveis**
+
+Aplicado à raspagem de dados de imóveis em Cascavel-PR, resultando na coleta de informações de mais de 4.000 imóveis.
+
+[Clique aqui](https://github.com/flucasbauer/scraper_zapimoveis) para acessar o diretório do projeto.
+
+[Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
 ## Habilidades
 
