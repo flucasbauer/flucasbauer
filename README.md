@@ -24,19 +24,13 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de gerar previsões para os valores
 da CBA para os 12 meses subsequentes a cada 
-publicação mensal.
-
-[Projeto final de visualização em BI](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
+publicação mensal. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
 
 ### Projetos de webscraping
 
-**Dados de suinocultores:** repositório não disponibilizado. Projeto desenvolvido para o desenvolvimento de habilidades em aplicações em Python.
+**Dados de suinocultores:** repositório não disponibilizado. Projeto desenvolvido para o desenvolvimento de habilidades em aplicações em Python. [Visualização (amostra dos dados da região oeste do Paraná).](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
-[Projeto final de visualização em BI (amostra dos dados da região oeste do Paraná)](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
-
-[**Site da Zapimóveis:**](https://github.com/flucasbauer/scraper_zapimoveis) aplicado à raspagem de dados de imóveis de Cascavel-PR. Projeto de iniciação científica desenvolvido para o Núcleo de estatística da Unioeste.
-
-[Projeto final de visualização em BI](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+[**Site da Zapimóveis:**](https://github.com/flucasbauer/scraper_zapimoveis) aplicado à raspagem de dados de imóveis de Cascavel-PR. Projeto de iniciação científica desenvolvido para o Núcleo de estatística da Unioeste. [Visualização.](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
 ## Hard skills
 
