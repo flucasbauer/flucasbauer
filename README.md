@@ -18,19 +18,18 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 
 ### Estatística
 
-[**Regressão log-log:**](https://github.com/flucasbauer/elasticidade_preco_venda_frango) aplicada aos dados disponibilizados pelo IBGE e ComexStat para analisar a sensibilidade do preço de venda do frango pelos produtores. 
+[**Regressão log-log**](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para analisar a sensibilidade do preço de venda do frango pelos produtores. Projeto realizado para desenvolver habilidades em Python.  
 
-[**Sarima:**](https://github.com/flucasbauer/previsao_cba) aplicado aos dados do Projeto de Extensão da Cesta Básica
+[**Sarima**](https://github.com/flucasbauer/previsao_cba) aplicado aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de gerar previsões para os valores
-da CBA para os 12 meses subsequentes a cada 
-publicação mensal. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
+da CBA para os próximos 12 meses subsequentes à publicação do boletim. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
 
 ### Projetos de webscraping
 
-**Dados de suinocultores:** repositório não disponibilizado. Projeto desenvolvido para o desenvolvimento de habilidades em aplicações em Python. [Visualização (amostra dos dados da região oeste do Paraná).](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+**Dados de suinocultores:** repositório não disponibilizado. Projeto realizado para desenvolver habilidades em Python. [Visualização (amostra dos dados da região oeste do Paraná).](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
-[**Site da Zapimóveis:**](https://github.com/flucasbauer/scraper_zapimoveis) aplicado à raspagem de dados de imóveis de Cascavel-PR. Projeto de iniciação científica desenvolvido para o Núcleo de estatística da Unioeste. [Visualização.](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+[**Site da Zapimóveis:**](https://github.com/flucasbauer/scraper_zapimoveis) raspagem dos dados de imóveis de Cascavel-PR. Projeto de iniciação científica desenvolvido para o Núcleo de estatística da Unioeste. [Visualização.](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
 ## Hard skills
 
