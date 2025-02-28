@@ -14,11 +14,9 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 
 ### Análise de dados e negócios
 
-[**Análise das avaliações de pedidos:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e visualizações no Power BI. Além de utilizar técnicas de resolução de problemas e apresentação de resultados.
+[**Análise das avaliações dos clientes:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e visualizações no Power BI. Além de utilizar técnicas de resolução de problemas e apresentação de resultados.
 
 ### Estatística
-
-[**Regressão log-log**](https://github.com/flucasbauer/elasticidade_preco_venda_frango) para analisar a sensibilidade do preço de venda do frango pelos produtores. Projeto realizado para desenvolver habilidades em Python.  
 
 [**Sarima**](https://github.com/flucasbauer/previsao_cba) aplicado aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
