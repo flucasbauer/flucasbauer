@@ -14,7 +14,7 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 
 ### Análise de dados e negócios
 
-[**Análise das avaliações de pedidos:**](https://app.powerbi.com/view?r=eyJrIjoiOTExOWRhMjctZmQ2OS00YmZkLWE2NjctMzA5NDY5ODVlMjQwIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL.
+[**Análise das avaliações de pedidos:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e visualizações no Power BI. Além de utilizar técnicas de resolução de problemas e apresentação de resultados.
 
 ### Estatística
 
