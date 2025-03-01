@@ -16,14 +16,14 @@ Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Par
 
 [**Análise das avaliações dos clientes:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e visualizações no Power BI. Além de utilizar técnicas de resolução de problemas e apresentação de resultados.
 
-### Estatística
+### Estatística e econometria
 
 [**Sarima**](https://github.com/flucasbauer/previsao_cba) aplicado aos dados do Projeto de Extensão da Cesta Básica
 de Alimentos (CBA) de Cascavel-PR, com
 o objetivo de gerar previsões para os valores
 da CBA para os próximos 12 meses subsequentes à publicação do boletim. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
 
-### Projetos de webscraping
+### Webscraping
 
 **Dados de suinocultores:** repositório não disponibilizado. Projeto realizado para desenvolver habilidades em Python. [Visualização (amostra dos dados da região oeste do Paraná).](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
 
