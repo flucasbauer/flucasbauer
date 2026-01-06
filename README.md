@@ -3,31 +3,23 @@
 [![Link da imagem](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/lucaassbauer)
 [![Link da imagem](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:f.lucasbauer@gmail.com)
 
-Analista de dados com 3 anos de experiência, utilizando ferramentas como SQL, Power BI, Python e Excel. Visando combinar habilidades técnicas com uma comunicação estruturada em storytelling para transformar dados em insights estratégicos, buscando desenvolver ações que impulsionam os resultados do negócio.
+Analista de dados com 4 anos de experiência, utilizando ferramentas como Excel, SQL, Power BI e Python. Busco combinar habilidades técnicas de manipulação de dados, estatística e econometria com boa comunicação para transformar dados em inteligência de mercado e negócios.
 
 ## Formação acadêmica
-Cursando (8/10) Ciências Econômicas pela Universidade Estadual do Oeste do Paraná 
+Graduando (9/10) Ciências Econômicas pela Universidade Estadual do Oeste do Paraná 
 (Unioeste).
 
 ## Projetos
 
 
-### Análise de dados e negócios
+### Estatística
 
-[**Análise das avaliações dos clientes:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e visualizações no Power BI. Além de utilizar técnicas de resolução de problemas e apresentação de resultados.
+[**Análise das avaliações dos clientes:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e estatística. Utilizei o cálculo da métrica NPS e regressão logística para entender o possível motivo para as avaliações negativas dos consumidores.
 
-### Estatística e econometria
+### Séries temporais
 
-[**Sarima**](https://github.com/flucasbauer/previsao_cba) aplicado aos dados do Projeto de Extensão da Cesta Básica
-de Alimentos (CBA) de Cascavel-PR, com
-o objetivo de gerar previsões para os valores
-da CBA para os próximos 12 meses subsequentes à publicação do boletim. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
-
-### Webscraping
-
-**Dados de suinocultores:** repositório não disponibilizado. Projeto realizado para desenvolver habilidades em Python. [Visualização (amostra dos dados da região oeste do Paraná).](https://app.powerbi.com/view?r=eyJrIjoiNWY4MTNjZjYtYzQ0Zi00NmZjLTkwNTYtMmNiNzQ5NDk4YWNhIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
-
-[**Site da Zapimóveis:**](https://github.com/flucasbauer/scraper_zapimoveis) raspagem dos dados de imóveis de Cascavel-PR. Projeto de iniciação científica desenvolvido para o Núcleo de estatística da Unioeste. [Visualização.](https://app.powerbi.com/view?r=eyJrIjoiNjFmM2RhN2QtZmI4Zi00Y2YzLThhN2EtYjJiYzg5NGY1ODJlIiwidCI6IjMwYjFlNWVhLWUwNWUtNGE3Ny05OWQzLWEzYzYyYzMyODc4NCJ9)
+[**Previsão do preço da cesta básica de alimentos de Cascavel-PR (CBA):**](https://github.com/flucasbauer/previsao_cba) como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço
+da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
 
 ## Hard skills
 
