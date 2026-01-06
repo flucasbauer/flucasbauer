@@ -19,7 +19,7 @@ Graduando (9/10) Ciências Econômicas pela Universidade Estadual do Oeste do Pa
 ### Séries temporais
 
 [**Previsão do preço da cesta básica de alimentos de Cascavel-PR (CBA):**](https://github.com/flucasbauer/previsao_cba) como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço
-da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal. [Visualização.](https://www.unioeste.br/portal/determinacao-do-custo-da-cesta-basica-de-alimentos/inicio) 
+da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal.
 
 ## Hard skills
 
