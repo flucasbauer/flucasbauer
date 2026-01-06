@@ -6,8 +6,8 @@
 Analista de dados com 4 anos de experiência, utilizando ferramentas como Excel, SQL, Power BI e Python. Busco combinar habilidades técnicas de manipulação de dados, estatística e econometria com boa comunicação para transformar dados em inteligência de mercado e negócios.
 
 ## Formação acadêmica
+
 Graduando (9/10) Ciências Econômicas pela Universidade Estadual do Oeste do Paraná 
-(Unioeste).
 
 ## Projetos
 
