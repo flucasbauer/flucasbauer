@@ -14,12 +14,16 @@ Graduando (9/10) Ciências Econômicas pela Universidade Estadual do Oeste do Pa
 
 ### Estatística
 
-[**Análise das avaliações dos clientes:**](https://github.com/flucasbauer/analise-avaliacoes-olist) o objetivo deste projeto é realizar análises de negócios através de insights obtidos por meio da análise exploratória nos dados com consultas SQL e estatística. Utilizei o cálculo da métrica NPS e regressão logística para entender o possível motivo para as avaliações negativas dos consumidores.
+**1. Análise das avaliações dos clientes**
+
+O objetivo deste projeto é analisar os dados dos pedidos da loja de marketplace Olist para encontrar os possíveis motivos para as avaliações negativas dos consumidores por meio da métrica NPS e do modelo de regressão logística. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
 
 ### Séries temporais
 
-[**Previsão do preço da cesta básica de alimentos de Cascavel-PR (CBA):**](https://github.com/flucasbauer/previsao_cba) como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço
-da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal.
+**1. Previsão do preço da cesta básica de alimentos de Cascavel-PR (CBA):**
+
+Como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço
+da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/previsao_cba)
 
 ## Hard skills
 
