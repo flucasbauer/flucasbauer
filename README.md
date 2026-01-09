@@ -17,7 +17,7 @@ Graduando (9/10) Ciências Econômicas pela Universidade Estadual do Oeste do Pa
 
 **1. Análise das avaliações dos clientes**
 
-O objetivo deste projeto é analisar os dados dos pedidos da loja de marketplace Olist para encontrar os possíveis motivos para as avaliações negativas dos consumidores por meio da métrica NPS e do modelo de regressão logística. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
+O objetivo deste projeto é analisar os dados dos pedidos da loja de marketplace Olist para encontrar os possíveis motivos para as avaliações negativas dos consumidores por meio da métrica Net Promoter Score (NPS) e do modelo de regressão logística. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
 
 ### Séries temporais
 
