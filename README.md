@@ -8,7 +8,7 @@ Analista de dados com 4 anos de experiência, utilizando ferramentas como SQL, P
 
 ## Formação acadêmica
 
-Economista pela Universidade Estadual do Oeste do Paraná 
+Economista pela Universidade Estadual do Oeste do Paraná.
 
 ## Projetos
 
