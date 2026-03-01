@@ -1,8 +1,6 @@
 # Lucas Bauer 👋🏽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaassbauer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.lucasbauer@gmail.com)
-
 
 Analista de dados com 4 anos de experiência, utilizando ferramentas como SQL, Python e Power BI. Busco combinar habilidades técnicas de manipulação de dados, estatística e econometria com boa comunicação para transformar dados em inteligência de mercado e negócios.
 
@@ -13,17 +11,17 @@ Economista pela Universidade Estadual do Oeste do Paraná.
 ## Projetos
 
 
-### Estatística
+### 1. Estatística
 
-**1. Análise das avaliações dos clientes**
+**1.1. Análise das avaliações dos clientes**
 
-O objetivo deste projeto é analisar os dados dos pedidos da loja de marketplace Olist para encontrar os possíveis motivos para as avaliações negativas dos consumidores por meio da métrica Net Promoter Score (NPS) e do modelo de regressão logística. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
+O objetivo deste projeto é, por meio do modelo de regressão logística, descobrir os principais fatores que aumentam ou dimunem a probabilidade de um cliente atribuir uma avaliação negativa a um pedido. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
 
-### Séries temporais
+### 2. Séries temporais
 
-**1. Previsão do preço da cesta básica de alimentos de Cascavel-PR (CBA):**
+**2.1. Previsão do preço médio da cesta básica de alimentos de Cascavel-PR (CBA):**
 
-Como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço
+Como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço médio
 da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/previsao_cba)
 
 ## Hard skills
