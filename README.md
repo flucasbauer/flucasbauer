@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaassbauer)
 
-Analista de dados com 4 anos de experiência, utilizando ferramentas como SQL, Python e Power BI. Busco combinar habilidades técnicas de manipulação de dados, estatística e econometria com boa comunicação para transformar dados em inteligência de mercado e negócios.
+Analista e cientista de dados, contando com 4 anos de experiência no mercado, utilizando ferramentas como SQL, Python e Power BI. Busco combinar habilidades técnicas de manipulação de dados, estatística e boa comunicação para transformar dados em inteligência de mercado e negócios.
 
 ## Formação acadêmica
 
@@ -15,14 +15,14 @@ Economista pela Universidade Estadual do Oeste do Paraná.
 
 **1.1. Análise das avaliações dos clientes**
 
-O objetivo deste projeto é, por meio do modelo de regressão logística, descobrir os principais fatores que aumentam ou dimunem a probabilidade de um cliente atribuir uma avaliação negativa a um pedido. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
+O objetivo deste projeto é, por meio do modelo de regressão logística, descobrir os principais fatores que aumentam a probabilidade de um cliente atribuir uma avaliação negativa a um pedido. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/analise-avaliacoes-olist)
 
 ### 2. Séries temporais
 
 **2.1. Previsão do preço médio da cesta básica de alimentos de Cascavel-PR (CBA):**
 
 Como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço médio
-da cesta para os próximos 12 meses subsequentes à publicação do boletim mensal. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/previsao_cba)
+da cesta para os próximos 12 meses subsequentes à publicação mensal do boletim. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/previsao_cba)
 
 ## Hard skills
 
