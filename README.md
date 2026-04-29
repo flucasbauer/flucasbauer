@@ -19,7 +19,7 @@ O objetivo deste projeto é, por meio do modelo de regressão logística, descob
 
 ### 2. Séries temporais
 
-**2.1. Previsão do preço médio da cesta básica de alimentos de Cascavel-PR (CBA):**
+**2.1. Previsão do preço médio da cesta básica de alimentos de Cascavel-PR (CBA)**
 
 Como integrante do Projeto de Extensão da CBA pela Unioeste, apliquei o modelo Sarima para gerar previsões do preço médio
 da cesta básica para os 12 meses subsequentes à publicação mensal do boletim. [Clique aqui para acessar ao projeto](https://github.com/flucasbauer/previsao_cba)
